@@ -8,7 +8,7 @@ const PageHome = () => {
       <h1 className='uppercase text-[#383838] text-[27px] font-[600] mx-9 mb-5 tracking-wider'>PHÂN BIỆT CÁC LOẠI NỒNG ĐỘ CỦA NƯỚC HOA  </h1>
       <img className="w-[1050px] h-[470px] m-auto" src={img7} alt="PHÂN BIỆT CÁC LOẠI NỒNG ĐỘ CỦA NƯỚC HOA " />
       <i className='text-center text-[13px]'>Phân biệt các loại nồng độ nước hoa </i>
-      <i className='mx-9 mb-8 my-3'>Có lẽ mọi người khi đã từng mua hoặc dùng nước hoa đều gặp phải tình trạng nhìn thấy các dòng chữ EAU DE PARFUM, EAU DE TOILETTE,...
+      <i className='mx-9 mb-5 my-3'>Có lẽ mọi người khi đã từng mua hoặc dùng nước hoa đều gặp phải tình trạng nhìn thấy các dòng chữ EAU DE PARFUM, EAU DE TOILETTE,...
         Tuy nhiên, không phải ai cũng hiểu rõ ràng về ý nghĩa của những dòng chữ này, điều này có thể gây ra sự bối rối.</i>
       <div className='mx-9'>
         <p className='text-[20px] font-[600]'>NỒNG ĐỘ NƯỚC HOA LÀ GÌ?</p>
@@ -20,7 +20,7 @@ const PageHome = () => {
             Lớp nền làm loãng tinh dầu và giúp hương tỏa ra từ da, đồng thời cồn bảo quản các loại dầu dễ bay hơi và
             đảm bảo các thành phần hương thơm kết hợp đúng cách.</p>
         </div>
-        <div className='text-center mb-8'>
+        <div className='text-center'>
           <img src={img7I} className='h-[500px] w-[1050px] mt-3' alt="TỔNG QUAN NỒNG ĐỘ CỦA NƯỚC HOA" />
           <i className='text-center text-[13px]'>Tổng quan nồng độ nước hoa</i>
         </div>
@@ -30,8 +30,8 @@ const PageHome = () => {
         <p className='mt-2 mb-7'>Tất cả các loại đều bắt đầu bằng chữ Eau, trong tiếng Pháp có nghĩa là “nước”, có 5 loại phổ biến sau:</p>
         <div className=''>
           <img className='h-[550px] w-[1050px]' src={img7II} alt="Phân biệt các loại nồng độ nước hoa" />
-          <p className='text-center text-[13px] mb-5 italic'>Phân biệt các loại nồng độ nước hoa</p>
-          <div className='my-5 mt-2'>
+          <p className='text-center text-[13px] italic'>Phân biệt các loại nồng độ nước hoa</p>
+          <div className='mx- mt-2'>
             <div>
               <p>Hy vọng với những thông tin CODEDECO mang lại sẽ giúp cho các bạn chọn được loại mùi hương có nồng độ phù hợp với bản thân nhất.</p>
             </div>
@@ -43,7 +43,7 @@ const PageHome = () => {
               </div>
             </div>
             <div>
-              <p className='text-[20px] font-[600]'>CODEDECO VIETNAM</p>
+              <p className='text-[16px] font-[600]'>CODEDECO VIETNAM</p>
               <ul className='list-disc mx-5'>
                 <li><b>Facebook:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }} href="https://www.facebook.com/profile.php?id=61555159087139" target='_blank'>CODEDECO - SCENTS CODE FOR YOUR STYLE</a></li>
                 <li><b>Instagram:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }}  href="https://www.instagram.com/codedeco_art/" target='_blank'>𝐂𝐎𝐃𝐄𝐃𝐄𝐂𝐎®️</a></li>

@@ -30,7 +30,7 @@ const PageHome = () => {
         <p className='mt-2 mb-7'>Tất cả các loại đều bắt đầu bằng chữ Eau, trong tiếng Pháp có nghĩa là “nước”, có 5 loại phổ biến sau:</p>
         <div className=''>
           <img className='h-[550px] w-[1050px]' src={img7II} alt="Phân biệt các loại nồng độ nước hoa" />
-          <p className='text-center text-[13px] mb-5 italic'>Phân biệt các loại nồng độ nước hoa</p>
+          <p className='text-center text-[13px] italic'>Phân biệt các loại nồng độ nước hoa</p>
           <div className='my-5 mt-2'>
             <div>
               <p>Hy vọng với những thông tin CODEDECO mang lại sẽ giúp cho các bạn chọn được loại mùi hương có nồng độ phù hợp với bản thân nhất.</p>
@@ -43,7 +43,7 @@ const PageHome = () => {
               </div>
             </div>
             <div>
-              <p className='text-[20px] font-[600]'>CODEDECO VIETNAM</p>
+              <p className='text-[16px] font-[600]'>CODEDECO VIETNAM</p>
               <ul className='list-disc mx-5'>
                 <li><b>Facebook:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }} href="https://www.facebook.com/profile.php?id=61555159087139" target='_blank'>CODEDECO - SCENTS CODE FOR YOUR STYLE</a></li>
                 <li><b>Instagram:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }}  href="https://www.instagram.com/codedeco_art/" target='_blank'>𝐂𝐎𝐃𝐄𝐃𝐄𝐂𝐎®️</a></li>
