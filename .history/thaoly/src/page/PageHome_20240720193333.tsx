@@ -28,26 +28,20 @@ const PageHome = () => {
       <div className='mx-9 mt-5 m'>
         <p className='text-[20px] font-[600]'>PHÂN BIỆT CÁC LOẠI NỒNG ĐỘ NƯỚC HOA</p>
         <p className='mt-2 mb-7'>Tất cả các loại đều bắt đầu bằng chữ Eau, trong tiếng Pháp có nghĩa là “nước”, có 5 loại phổ biến sau:</p>
-        <div className=''>
+        <div className='text-center'>
           <img className='h-[550px] w-[1050px]' src={img7II} alt="Phân biệt các loại nồng độ nước hoa" />
-          <p className='text-center text-[13px] italic'>Phân biệt các loại nồng độ nước hoa</p>
+          <i className='text-center text-[13px]'>Phân biệt các loại nồng độ nước hoa</i>
           <div className='mx- mt-2'>
             <div>
               <p>Hy vọng với những thông tin CODEDECO mang lại sẽ giúp cho các bạn chọn được loại mùi hương có nồng độ phù hợp với bản thân nhất.</p>
             </div>
             <div>
-              <p>Xem thêm: <a style={{ textDecorationLine: 'underline', fontSize: 15, color: 'blue' }} href="https://codedeco.art/7-nhom-huong-hoa-co-ban/?fbclid=IwZXh0bgNhZW0CMTAAAR3ILr7y4RI8STGuQyG-_kAtyI2loRPxGobqk0pgET_7vVu-CkXPLDpAOOk_aem_mNVeJrs28ulCmOsalx0EDQ">7 nhóm hương nước hoa cơ bản có thể bạn chưa biết</a></p>
-              <div className='flex gap-9 my-5'>
-                <p className='bg-black text-white p-3 w-[250px] rounded-md'><b>Hotline: 0967.077.882</b> </p>
-                <p className='bg-black text-white p-3 w-[250px] rounded-md'><b>CSKH : 0383.226.567 </b> </p>
-              </div>
-            </div>
-            <div>
               <p className='text-[16px] font-[600]'>CODEDECO VIETNAM</p>
               <ul className='list-disc mx-5'>
-                <li><b>Facebook:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }} href="https://www.facebook.com/profile.php?id=61555159087139" target='_blank'>CODEDECO - SCENTS CODE FOR YOUR STYLE</a></li>
-                <li><b>Instagram:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }}  href="https://www.instagram.com/codedeco_art/" target='_blank'>𝐂𝐎𝐃𝐄𝐃𝐄𝐂𝐎®️</a></li>
-                <li><b>Shopee:</b>   <a style={{ textDecorationLine: 'underline', fontSize: 15 }}  href="https://shopee.vn/codedeco.art" target='_blank'>𝐂𝐎𝐃𝐄𝐃𝐄𝐂𝐎®️</a></li>
+                <li><b>Facebook:</b> <a style={{textDecorationLine:'underline',fontSize:15}} href="https://www.facebook.com/profile.php?id=61555159087139" target='_blank'>CODEDECO - SCENTS CODE FOR YOUR STYLE</a></li>
+                <li><b>Instagram:</b> @codedeco.official</li>
+                <li><b>Shopee:</b> https://shopee.vn/codedeco.official</li>
+                <li><b>Hotline:</b> 0967.077.882 – CSKH : 0383.226.567</li>
               </ul>
             </div>
           </div>

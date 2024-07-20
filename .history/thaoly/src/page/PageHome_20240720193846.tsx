@@ -37,7 +37,7 @@ const PageHome = () => {
             </div>
             <div>
               <p>Xem thêm: <a style={{ textDecorationLine: 'underline', fontSize: 15, color: 'blue' }} href="https://codedeco.art/7-nhom-huong-hoa-co-ban/?fbclid=IwZXh0bgNhZW0CMTAAAR3ILr7y4RI8STGuQyG-_kAtyI2loRPxGobqk0pgET_7vVu-CkXPLDpAOOk_aem_mNVeJrs28ulCmOsalx0EDQ">7 nhóm hương nước hoa cơ bản có thể bạn chưa biết</a></p>
-              <div className='flex gap-9 my-5'>
+              <div className='flex gap-9'>
                 <p className='bg-black text-white p-3 w-[250px] rounded-md'><b>Hotline: 0967.077.882</b> </p>
                 <p className='bg-black text-white p-3 w-[250px] rounded-md'><b>CSKH : 0383.226.567 </b> </p>
               </div>
@@ -46,8 +46,8 @@ const PageHome = () => {
               <p className='text-[16px] font-[600]'>CODEDECO VIETNAM</p>
               <ul className='list-disc mx-5'>
                 <li><b>Facebook:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }} href="https://www.facebook.com/profile.php?id=61555159087139" target='_blank'>CODEDECO - SCENTS CODE FOR YOUR STYLE</a></li>
-                <li><b>Instagram:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }}  href="https://www.instagram.com/codedeco_art/" target='_blank'>𝐂𝐎𝐃𝐄𝐃𝐄𝐂𝐎®️</a></li>
-                <li><b>Shopee:</b>   <a style={{ textDecorationLine: 'underline', fontSize: 15 }}  href="https://shopee.vn/codedeco.art" target='_blank'>𝐂𝐎𝐃𝐄𝐃𝐄𝐂𝐎®️</a></li>
+                <li><b>Instagram:</b> @codedeco.official</li>
+                <li><b>Shopee:</b> https://shopee.vn/codedeco.official</li>
               </ul>
             </div>
           </div>
